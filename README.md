@@ -127,8 +127,8 @@ Este repositório reúne minha jornada de estudo em cibersegurança, com roteiro
 ## 🌐 Conecte-se comigo
 
 - GitHub: [carlosrobertoaraujo61-creator](https://github.com/carlosrobertoaraujo61-creator)
-- LinkedIn: [Seu perfil](https://www.linkedin.com)
-- Email: [seuemail@example.com](mailto:seuemail@example.com)
+- LinkedIn:(https://www.linkedin.com/in/carlos-roberto-de-araujo-07049a431/)
+- Email: carlosrobertoaraujo61@gmail.com)
 - Portfólio: [Em breve](#)
 
 ---
